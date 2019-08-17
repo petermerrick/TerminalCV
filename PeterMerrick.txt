@@ -14,9 +14,9 @@ Hey There, and welcome to my little website profile <!-- laglaglaglaglaglaglagla
 <p>I am a qualified analytical chemist who has transitioned over to software development</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I set myself appart from my peers with an aptitude for solving problems, learning new concepts quickly, and my strong outspoken demeanour which all make me a valuable addition to your team.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>My hobbies include persuing electronics/code projects with arduino, astrophotography, and homebrewing (im bringing the friday knock-off beers) I have also spent some time writing some python to process my astroimages. <br><br><br><a href="https://www.astrobin.com/users/PeteMerrick/"> Some of my astrophotos</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p>Heres my linkedin! <br> <a href="www.linkedin.com/in/peter-merrick-8054aa11b">Linkedin</a>
+<p>Heres my linkedin! <br> <a href="https://www.linkedin.com/in/peter-merrick-8054aa11b">Linkedin</a>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="peter.merrick@adam.com.au">Email</a>.
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto: peter.merrick@adam.com.au">peter.merrick@adam.com.au</a>.
 
 <p>Cheers!</p>
 <span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span>

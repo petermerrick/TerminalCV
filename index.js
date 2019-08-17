@@ -103,18 +103,8 @@ Typer.init();
 var numberOfRowsTyped = 0;
 var timer = setInterval("t();", 30);
 function t() {
-	if(numberOfRowsTyped>68)
-	{
-		Typer.speed=10;
-	}
-	if(numberOfRowsTyped>173)
-	{
-		Typer.speed=3;
-	}
 	Typer.addText({"keyCode": 123748});
 	numberOfRowsTyped += 1;
-	console.log("test this out");
-	console.log(numberOfRowsTyped);
 	if (Typer.index > Typer.text.length) {
 		clearInterval(timer);
 	}
