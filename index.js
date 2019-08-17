@@ -105,6 +105,7 @@ var timer = setInterval("t();", 30);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	numberOfRowsTyped += 1;
+	console.log("test this out");
 	console.log(numberOfRowsTyped);
 	if (Typer.index > Typer.text.length) {
 		clearInterval(timer);
