@@ -1,12 +1,12 @@
 <span id="a">root@hostname</span>:<span id="b">~</span><span id="c">$</span> cd /home/peter/<!-- kjsdfhkjdhsfkjdshfkj -->aboutMe
 <span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span> ls -la
-<span id="a">total 4</span>
-<span id="a">drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 .</span>
-<span id="a">drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 ..</span>
-<span id="a">drwxr-xr-x. 2 peter peter   60 Aug 17 17:20 .bash_profile</span>
-<span id="a">drwxr-xr-x. 2 peter peter   59 Aug 17 17:20 .bashrc</span>
-<span id="a">drwxr-xr-x. 2 peter peter   38 Aug 17 17:20 .ssh</span>
-<span id="a">drwxr-xr-x. 2 peter peter  251 Aug 17 17:20 aboutMe.txt</span>
+total 4
+drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 .
+drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 ..
+drwxr-xr-x. 2 peter peter 1293 Aug 17 17:20 .bash_profile
+drwxr-xr-x. 2 peter peter 1456 Aug 17 17:20 .bashrc
+drwxr-xr-x. 2 peter peter 4523 Aug 17 17:20 .ssh
+drwxr-xr-x. 2 peter peter 3245 Aug 17 17:20 aboutMe.txt
 <span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aboutMe.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
