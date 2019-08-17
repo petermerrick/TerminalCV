@@ -1,5 +1,13 @@
 <span id="a">root@hostname</span>:<span id="b">~</span><span id="c">$</span> cd /home/peter/<!-- kjsdfhkjdhsfkjdshfkj -->aboutMe
-<span id="a">root@hostname</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aboutMe.txt<br/><br/>
+<span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span> ls -la
+<span id="a">total 4
+<span id="a">drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 .
+<span id="a">drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 ..
+<span id="a">drwxr-xr-x. 2 peter peter   60 Aug 17 17:20 .bash_profile
+<span id="a">drwxr-xr-x. 2 peter peter   59 Aug 17 17:20 .bashrc
+<span id="a">drwxr-xr-x. 2 peter peter   38 Aug 17 17:20 .ssh
+<span id="a">drwxr-xr-x. 2 peter peter  251 Aug 17 17:20 aboutMe.txt
+<span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aboutMe.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
