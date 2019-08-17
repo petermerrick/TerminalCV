@@ -1,4 +1,4 @@
-<span id="a">root@hostname</span>:<span id="b">~</span><span id="c">$</span> cd /home/peter/<!-- kjsdfhkjdhsfkjdshfkj -->aboutMe
+<span id="a">root@hostname</span>:<span id="b">~</span><span id="c">$</span> cd /home/peter/aboutMe
 <span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span> ls -la
 total 4
 drwxr-xr-x. 2 peter peter 4096 Aug 17 17:20 .
