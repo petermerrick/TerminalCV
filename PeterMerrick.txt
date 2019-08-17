@@ -10,7 +10,7 @@ drwxr-xr-x. 2 peter peter 4523 Aug 17 17:20 .ssh
 drwxr-xr-x. 2 peter peter 3245 Aug 17 17:20 aboutMe.txt
 <span id="a">root@hostname</span>:<span id="b">/home/peter/aboutMe/</span><span id="c">$</span> cat <!-- kjsdfhkj               hsfkjdshfkj -->aboutMe.txt<br/><br/>
 
-Hey There, and welcome to my little website profile <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey there, and welcome to my little website profile <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am a qualified analytical chemist who has transitioned over to software development</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I set myself appart from my peers with an aptitude for solving problems, learning new concepts quickly, and my strong outspoken demeanour which all make me a valuable addition to your team.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>My hobbies include persuing electronics/code projects with arduino, astrophotography, and homebrewing (im bringing the friday knock-off beers) I have also spent some time writing some python to process my astroimages. <br><br><br><a href="https://www.astrobin.com/users/PeteMerrick/"> Some of my astrophotos</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
