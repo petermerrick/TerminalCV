@@ -12,8 +12,11 @@ drwxr-xr-x. 2 peter peter 3245 Aug 17 17:20 aboutMe.txt
 
 Hey there, and welcome to my little website profile <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am a qualified analytical chemist who has transitioned over to software development</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>I set myself appart from my peers with an aptitude for solving problems, learning new concepts quickly, and my strong outspoken demeanour which all make me a valuable addition to your team.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>My hobbies include persuing electronics/code projects with arduino, astrophotography, and homebrewing (im bringing the friday knock-off beers) I have also spent some time writing some python to process my astroimages. <br><br><br>
+<p>I set myself appart from my peers with an aptitude for solving problems, learning new concepts quickly, and my ability to confidently convey technical problems to senior lamen, which all make me a valuable addition to your team.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>My hobbies include persuing electronics/code projects with arduino, astrophotography, videography, and homebrewing (i'm bringing the friday knock-off beers) I have also spent some time writing some python to process my astroimages. <br><br><br>
+
+<p>I have done wedding videos for a few friends, and a few months ago I was asked by a photographer friend if I wanted to do a video for one of his clients. I took the oportunity to test myself under pressure, and the day ran very successfully. <br>Here is a link to the <br> <a href="https://drive.google.com/file/d/1fLtXmUuRXpP0RxJqtf05BP2XkHQJtT4v/view?usp=sharing">video</a>
+
 <p>Here are a few astrophotos <br> <a href="https://www.astrobin.com/users/PeteMerrick/">Astrophotos</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p>Heres my linkedin! <br> <a href="https://www.linkedin.com/in/peter-merrick-8054aa11b">Linkedin</a>
 
